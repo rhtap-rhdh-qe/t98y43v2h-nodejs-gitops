@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: t98y43v2h-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/t98y43v2h-nodejs-gitops
